@@ -36,12 +36,12 @@ bash <(curl -fsSL https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/zi2.
 sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/uninstall.sh; sudo chmod +x ziun.sh; sudo ./ziun.sh
 ```
 
-Unduh Aplikasinya Dibawah Ini!
+# Unduh Aplikasinya Dibawah Ini!
 
 <p align="center">
 👇👇
  
-<p align="center">
+<h2 align="center">
  
 [![Zivpn](https://img.shields.io/badge/Zivpn-10-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
 
