@@ -43,7 +43,7 @@ sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/u
 <p align="center">
  👇👇
  
-[![Zivpn](https://img.shields.io/badge/Zivpn-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
+[![Zivpn](https://img.shields.io/badge/Zivpn-green.svg?style=flat)](https://sfile.mobi/7SR0JNIgXCN)
 
 <h2 align="center">
 
