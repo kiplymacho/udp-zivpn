@@ -37,7 +37,17 @@ bash <(curl -fsSL https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/zi2.
 sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/uninstall.sh; sudo chmod +x ziun.sh; sudo ./ziun.sh
 ```
 
-Client App available:
+Unduh Aplikasinya Dibawah Ini!
+
+[![Zivpn](https://img.shields.io/badge/Zivpn-10-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
+
+<h2 align="center">
+
+<a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
+<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
+</a>
+
+[![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 <a href="https://play.google.com/store/apps/details?id=com.zi.zivpn" target="_blank" rel="noreferrer">Download APP on Playstore</a>
 > ZiVPN
