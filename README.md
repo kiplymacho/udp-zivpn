@@ -38,11 +38,9 @@ sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/u
 
 # Unduh Aplikasinya Dibawah Ini!
 
-<p align="center">
+<h2 align="center">
 Klik Disini
  👇👇
- 
-<h2 align="center">
  
 [![Zivpn](https://img.shields.io/badge/Zivpn-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
 
