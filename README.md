@@ -12,7 +12,6 @@
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 
-
 ![](https://github.com/powermx/dl/blob/master/zivpn.png)
 
 UDP server installation for ZIVPN Tunnel (SSH/DNS/UDP) VPN app.
@@ -39,6 +38,9 @@ sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/u
 
 Unduh Aplikasinya Dibawah Ini!
 
+<p align="center">
+👇👇
+
 [![Zivpn](https://img.shields.io/badge/Zivpn-10-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
 
 <h2 align="center">
@@ -50,7 +52,6 @@ Unduh Aplikasinya Dibawah Ini!
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 <a href="https://play.google.com/store/apps/details?id=com.zi.zivpn" target="_blank" rel="noreferrer">Download APP on Playstore</a>
-> ZiVPN
 
 </p>
 <div height='45' align="center">
