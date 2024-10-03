@@ -40,6 +40,7 @@ sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/u
 
 <p align="center">
 👇👇
+ Klik Disini
  
 <h2 align="center">
  
