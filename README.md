@@ -40,7 +40,7 @@ Unduh Aplikasinya Dibawah Ini!
 
 <p align="center">
 👇👇
-
+<p align="center">
 [![Zivpn](https://img.shields.io/badge/Zivpn-10-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
 
 <h2 align="center">
