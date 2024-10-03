@@ -41,8 +41,8 @@ sudo wget -O ziun.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/u
 <h2 align="center">
  
 Klik Disini
+👇👇
 
- 👇👇
 [![Zivpn](https://img.shields.io/badge/Zivpn-yellow.svg?style=flat)](https://sfile.mobi/9FF1FNX25Uv)
 
 <h2 align="center">
